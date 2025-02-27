@@ -1,1 +1,5 @@
-print("hola mundo en javascript")
+print("hola mundo en javascript");
+
+function encontrarPagina(nombre, id){
+    
+}
